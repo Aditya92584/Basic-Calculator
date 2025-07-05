@@ -3,7 +3,8 @@
 <p>This is a basic calculator built using HTML, CSS, and JavaScript. It can perform standard arithmetic operations like addition, subtraction, multiplication, and division. It's a beginner-friendly project that helped me understand DOM manipulation and event handling in JavaScript.
 </p>
 <br>
-Please visit:: https://aditya92584.github.io/Calculator/
+Please visit :🔗 https://aditya92584.github.io/Basic-Calculator
+<br>
 <br>
 <img src="Screenshot (41).png"alt="">
 <br>
